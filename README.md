@@ -1,6 +1,6 @@
 # smallbird-site
 
-Guideline
+## Guideline
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
