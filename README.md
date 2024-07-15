@@ -1,6 +1,11 @@
 # smallbird-site
 
-Guideline
+## Reference
+
+- [github-repo](https://github.com/tishenme/smallbird-site)
+- [github-page](https://tishenme.github.io/smallbird-site)
+
+## Guideline
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
