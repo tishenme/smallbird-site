@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Small Bird Site
+site_description: Small Bird Site
+site_url: https://tishenme.github.io/smallbird-site/
+
+theme:
+  name: material
+  features:
+    - navigation.indexes

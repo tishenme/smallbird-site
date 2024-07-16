@@ -8,6 +8,7 @@
 ## Guideline
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+[create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
 
 ```shell
 
@@ -18,19 +19,26 @@ conda activate venv_conda_39_mkdocs
 pip list
 pip install --upgrade pip
 pip install --upgrade setuptools
-pip install mkdocs-material=="9.5.27"
 
 # install
 pip install mkdocs-material
+pip install mkdocs-material=="9.*"
+pip install mkdocs-material=="9.5.27"
+
+# upgrade
+pip install --upgrade --force-reinstall mkdocs-material
+pip show mkdocs-material
 
 # help
 mkdocs --help
 
 # init project
+conda activate venv_conda_39_mkdocs
 cd D:\CodeWork\IDE_Microsoft_VSCode_Workspace
 mkdocs new smallbird-site
 
 # publish
+conda activate venv_conda_39_mkdocs
 mkdocs serve
 
 ```
