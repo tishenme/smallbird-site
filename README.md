@@ -13,10 +13,11 @@
 
 - 参考博客
 
-  - [create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
   - [未央学习](https://weyoung-learn.github.io/skills/mkdocs/)
-  - [Cloud Notes](https://notes.lzwang.ltd/Python/)
   - [Eureka!](http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/)
+
+  - [Cloud Notes](https://notes.lzwang.ltd/Python/)
+  - [create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
 
 ```bash
 

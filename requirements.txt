@@ -36,7 +36,7 @@ paginate~=0.5
 regex>=2022.4
 requests~=2.26
 
-# Requirements for plugins
-mkdocs-minify-plugin
-mkdocs-rss-plugin
-mkdocs-static-i18n
+# Requirements for mkdocs plugins
+mkdocs-minify-plugin~=0.8.0
+mkdocs-rss-plugin~=1.15.0
+mkdocs-static-i18n~=1.2.3

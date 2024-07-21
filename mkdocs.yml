@@ -12,8 +12,8 @@ copyright: Copyright &copy; 2024 ~ now | 🚀 Tishen
 
 theme:
   custom_dir: material/overrides
-  favicon: icons/android-chrome-128x128.png
-  logo: icons/android-chrome-128x128.png
+  favicon: assets/small-bird-icon-128x128.png
+  logo: assets/small-bird-icon-128x128.png
   # language: zh
   language: en
   name: material
@@ -58,7 +58,7 @@ theme:
       primary: black
       accent: indigo
       toggle:
-        icon: material/link
+        icon: material/toggle-switch-off
         name: Switch to light mode
   font:
     text: Roboto
@@ -72,7 +72,76 @@ theme:
       hardware-tag: fontawesome/solid/microchip
       software-tag: fontawesome/solid/laptop-code
 
-# Page Navigation Tree
+plugins:
+  - tags
+  - blog
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+
+extra:
+  generator: false
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  tags:
+    Default: default-tag
+    Hardware: hardware-tag
+    Software: software-tag
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 nav:
   - Home:
       - "index.md"
