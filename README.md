@@ -7,37 +7,51 @@
 
 ## Guideline
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
-[create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
+- 官方教程
 
-```shell
+  - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+
+- 参考博客
+
+  - [create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
+  - [未央学习](https://weyoung-learn.github.io/skills/mkdocs/)
+  - [Cloud Notes](https://notes.lzwang.ltd/Python/)
+  - [Eureka!](http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/)
+
+```bash
 
 # venv_conda_39_mkdocs
 conda remove -n venv_conda_39_mkdocs --all -y
 conda create python=3.9.13 -n venv_conda_39_mkdocs -y
 conda activate venv_conda_39_mkdocs
-pip list
+python.exe -m pip install --upgrade pip
 pip install --upgrade pip
 pip install --upgrade setuptools
+pip list
 
 # install
-pip install mkdocs-material
-pip install mkdocs-material=="9.*"
-pip install mkdocs-material=="9.5.27"
+conda activate venv_conda_39_mkdocs
+pip install -r requirements.txt
 
-# upgrade
-pip install --upgrade --force-reinstall mkdocs-material
-pip show mkdocs-material
+# # upgrade
+# conda activate venv_conda_39_mkdocs
+# pip install --upgrade --force-reinstall mkdocs-material
+# pip show mkdocs-material
 
 # help
+conda activate venv_conda_39_mkdocs
 mkdocs --help
 
 # init project
-conda activate venv_conda_39_mkdocs
 cd D:\CodeWork\IDE_Microsoft_VSCode_Workspace
+conda activate venv_conda_39_mkdocs
 mkdocs new smallbird-site
 
-# publish
+# Build the website
+conda activate venv_conda_39_mkdocs
+mkdocs build
+
+# Run the website
 conda activate venv_conda_39_mkdocs
 mkdocs serve
 
