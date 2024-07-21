@@ -30,7 +30,7 @@ theme:
     # - navigation.expand # expand the side navigation bar by default
     - navigation.footer
     - navigation.indexes # documents can be directly attached to sections, which is particularly useful for providing overview pages
-    # - navigation.instant
+    - navigation.instant
     - navigation.instant.prefetch # for large file
     - navigation.instant.progress # loading progress bar
     - navigation.path # breadcrumb path on top of page
@@ -82,6 +82,10 @@ plugins:
       categories:
         - categories
         - tags
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
 
 extra:
   generator: false
@@ -92,6 +96,16 @@ extra:
     Default: default-tag
     Hardware: hardware-tag
     Software: software-tag
+
+extra_javascript:
+  # - javascripts/katex.js
+  - javascripts/embed-pdf.js
+  - javascripts/mathjax.js
+  # - https://giscus.app/client.js
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:
   - abbr
@@ -145,16 +159,14 @@ markdown_extensions:
 nav:
   - Home:
       - "index.md"
-      - ABOUT: "./HOME/about.md"
-      - SPONSORSHIP: "./HOME/sponsorship.md"
+      - ABOUT: "./notes/home/about.md"
+      - SPONSORSHIP: "./notes/home/sponsorship.md"
   - Soft:
-      - "index.md"
-      - ABOUT: "./HOME/about.md"
-      - SPONSORSHIP: "./HOME/sponsorship.md"
+      - "./notes/soft/index.md"
   - PL:
-      - "./notes/vcs/index.md"
+      - "./notes/pl/index.md"
   - IDE:
-      - "./notes/vcs/index.md"
+      - "./notes/ide/index.md"
   - VCS:
       - "./notes/vcs/index.md"
       - Git:
@@ -163,10 +175,6 @@ nav:
           - Info3: "./notes/vcs/git/index.md"
           - Info4: "./notes/vcs/git/index.md"
   - CICD:
-      - "index.md"
-      - ABOUT: "./HOME/about.md"
-      - SPONSORSHIP: "./HOME/sponsorship.md"
+      - "./notes/cicd/index.md"
   - Cloud:
-      - "index.md"
-      - Google Cloud: "./HOME/about.md"
-      - SPONSORSHIP: "./HOME/sponsorship.md"
+      - "./notes/cloud/index.md"

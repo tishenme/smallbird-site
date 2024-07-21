@@ -22,6 +22,7 @@
 ```bash
 
 # venv_conda_39_mkdocs
+conda deactivate
 conda remove -n venv_conda_39_mkdocs --all -y
 conda create python=3.9.13 -n venv_conda_39_mkdocs -y
 conda activate venv_conda_39_mkdocs
