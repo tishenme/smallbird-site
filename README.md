@@ -2,22 +2,22 @@
 
 ## Reference
 
--   [github-repo](https://github.com/tishenme/smallbird-site)
--   [github-page](https://tishenme.github.io/smallbird-site)
+- [github-repo](https://github.com/tishenme/smallbird-site)
+- [github-page](https://tishenme.github.io/smallbird-site)
 
 ## Guideline
 
--   官方教程
+- 官方教程
 
-    -   [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+  - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
--   参考博客
+- 参考博客
 
-    -   [未央学习](https://weyoung-learn.github.io/skills/mkdocs/)
-    -   [Eureka!](http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/)
+  - [未央学习](https://weyoung-learn.github.io/skills/mkdocs/)
+  - [Eureka!](http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/)
 
-    -   [Cloud Notes](https://notes.lzwang.ltd/Python/)
-    -   [create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
+  - [Cloud Notes](https://notes.lzwang.ltd/Python/)
+  - [create-blog](https://github.com/mkdocs-material/create-blog/blob/main/mkdocs.yml)
 
 ```bash
 
