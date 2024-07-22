@@ -10,14 +10,14 @@ comments: flase
 ![GitHub watchers](https://img.shields.io/github/watchers/tishenme/smallbird-site?style=social)
 
 !!! quote
-I have places to go, things to do, and people to impress.
+    I have places to go, things to do, and people to impress.
 
 ## 🎙️ Foreword
 
 Welcome to my personal tech blog! This website serves as a roadmap for my personal study, research and development. Explore this site by clicking the navigation bar on the top or the left.
 
 !!! info
-🎯 mark means I am currently actively learning related knowledge. The marked topics will be dynamically modified.
+    🎯 mark means I am currently actively learning related knowledge. The marked topics will be dynamically modified.
 
 ## 🔗 Useful Links
 
@@ -25,60 +25,60 @@ Welcome to my personal tech blog! This website serves as a roadmap for my person
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-house:{ .lg .middle } **Personal Website**
+-   :fontawesome-solid-house:{ .lg .middle } **Personal Website**
 
-  ***
+    ***
 
-  Shuaiwen Cui's personal website
+    Shuaiwen Cui's personal website
 
-  [:octicons-arrow-right-24: <a href="http://www.cuishuaiwen.com" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="http://www.cuishuaiwen.com" target="_blank"> Portal </a>](#)
 
-- :fontawesome-brands-linkedin:{ .lg .middle } **Linkedin Profile**
+-   :fontawesome-brands-linkedin:{ .lg .middle } **Linkedin Profile**
 
-  ***
+    ***
 
-  Shuaiwen Cui's LinkedIn profile
+    Shuaiwen Cui's LinkedIn profile
 
-  [:octicons-arrow-right-24: <a href="https://www.linkedin.com/in/shaun-shuaiwen-cui/" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://www.linkedin.com/in/shaun-shuaiwen-cui/" target="_blank"> Portal </a>](#)
 
-- :fontawesome-brands-github:{ .lg .middle } **Github**
+-   :fontawesome-brands-github:{ .lg .middle } **Github**
 
-  ***
+    ***
 
-  Shuaiwen Cui's GitHub profile, hope you can star this repo if you like it
+    Shuaiwen Cui's GitHub profile, hope you can star this repo if you like it
 
-  [:octicons-arrow-right-24: <a href="https://github.com/Shuaiwen-Cui" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://github.com/Shuaiwen-Cui" target="_blank"> Portal </a>](#)
 
-- :fontawesome-brands-researchgate:{ .lg .middle } **Researchgate**
+-   :fontawesome-brands-researchgate:{ .lg .middle } **Researchgate**
 
-  ***
+    ***
 
-  Shuaiwen Cui's ResearchGate profile
+    Shuaiwen Cui's ResearchGate profile
 
-  [:octicons-arrow-right-24: <a href="https://www.researchgate.net/profile/Shuaiwen-Cui" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://www.researchgate.net/profile/Shuaiwen-Cui" target="_blank"> Portal </a>](#)
 
-- :fontawesome-brands-youtube:{ .lg .middle } **Youtube**
+-   :fontawesome-brands-youtube:{ .lg .middle } **Youtube**
 
-  ***
+    ***
 
-  Shuaiwen Cui's Youtube channel
+    Shuaiwen Cui's Youtube channel
 
-  [:octicons-arrow-right-24: <a href="https://www.youtube.com/channel/UCGNpQ1avIeJVN2tQ2U0zHog" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://www.youtube.com/channel/UCGNpQ1avIeJVN2tQ2U0zHog" target="_blank"> Portal </a>](#)
 
-- :fontawesome-brands-bilibili:{ .lg .middle } **BiliBili**
+-   :fontawesome-brands-bilibili:{ .lg .middle } **BiliBili**
 
-  ***
+    ***
 
-  Shuaiwen Cui's Bilibili Channel
+    Shuaiwen Cui's Bilibili Channel
 
-  [:octicons-arrow-right-24: <a href="https://space.bilibili.com/422612631" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://space.bilibili.com/422612631" target="_blank"> Portal </a>](#)
 
-- :simple-roadmapdotsh:{ .lg .middle } **Roadmap**
+-   :simple-roadmapdotsh:{ .lg .middle } **Roadmap**
 
-  ***
+    ***
 
-  Roadmap for everything to become a developer
+    Roadmap for everything to become a developer
 
-  [:octicons-arrow-right-24: <a href="https://roadmap.sh/" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://roadmap.sh/" target="_blank"> Portal </a>](#)
 
 </div>
