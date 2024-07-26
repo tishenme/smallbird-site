@@ -200,9 +200,6 @@ nav:
       - "./notes/vcs/index.md"
       - Git:
           - Info1: "./notes/vcs/git/index.md"
-          - Info2: "./notes/vcs/git/index.md"
-          - Info3: "./notes/vcs/git/index.md"
-          - Info4: "./notes/vcs/git/index.md"
   - CICD:
       - "./notes/cicd/index.md"
   - Cloud:

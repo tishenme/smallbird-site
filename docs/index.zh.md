@@ -31,7 +31,7 @@ comments: flase
 
     学习导航
 
-    [:octicons-arrow-right-24: <a href="https://www.xue8nav.com/" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://www.xue8nav.com/" target="_blank"> 传送门 </a>](#)
 
 - :simple-leetcode:{ .lg .middle } **力扣**
 
@@ -39,6 +39,6 @@ comments: flase
 
     全球极客挚爱的技术成长平台
 
-    [:octicons-arrow-right-24: <a href="https://leetcode.cn/" target="_blank"> Portal </a>](#)
+    [:octicons-arrow-right-24: <a href="https://leetcode.cn/" target="_blank"> 传送门 </a>](#)
 
 </div>
