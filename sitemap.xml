@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/blog/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/blog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/blog/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/cicd/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/cicd/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/cicd/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/home/about/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/home/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/home/about/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/home/sponsorship/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/home/sponsorship/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/home/sponsorship/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/ide/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/ide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/ide/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/pl/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/pl/go/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/go/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/go/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/pl/java/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/java/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/java/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/pl/python/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/python/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/python/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/soft/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/soft/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/soft/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/vcs/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/vcs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/vcs/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/notes/vcs/git/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/vcs/git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/vcs/git/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/blog/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/blog/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/cicd/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/cicd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/cicd/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/home/about/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/home/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/home/about/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/home/sponsorship/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/home/sponsorship/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/home/sponsorship/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/ide/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/ide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/ide/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/pl/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/pl/go/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/go/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/go/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/pl/java/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/java/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/java/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/pl/python/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/pl/python/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/pl/python/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/soft/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/soft/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/soft/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/vcs/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/vcs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/vcs/"/>
+    </url>
+    <url>
+        <loc>https://tishenme.github.io/smallbird-site/zh/notes/vcs/git/</loc>
+        <lastmod>2024-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tishenme.github.io/smallbird-site/zh/notes/vcs/git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tishenme.github.io/smallbird-site/notes/vcs/git/"/>
+    </url>
+</urlset>
